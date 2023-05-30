@@ -1,0 +1,5 @@
+Image 2 : 
+- Create a Dockerfile for a new image that starts from ubuntu:20.04
+- Add instructions to install curl into that image.
+- Add instructions to copy the script file(2.sh) into that image 
+- Set it to run on container start using CMD.
